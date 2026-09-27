@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "796d756ba8f355fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1a4135b18df861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b17a678e050c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Plot/Guidelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guidelines"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ad88b66baa4fb09",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0de379c7ff2efc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed58fdcfec881e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "185a1440d3d51045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4b3c262477f3e9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "196331c856c71b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "f944043a976db6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93cdf2dcd67d532a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Plot/Guidelines.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8d238622d5676804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Plot/Guidelines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "83dbd3f2363f5dd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9e50f158bf1a50a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "14b8adcef22d11b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main Plot/Guidelines.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7ed58fdcfec881e0",
+  "lastOpenFiles": [
+    "Main Plot/Memorias del Mundo.md",
+    "Main Plot/Guión.md",
+    "Main Plot/Guidelines.md",
+    "Devil Arms/Armas Forjadas/Ebony & Ivory.md",
+    "Devil Arms/Armas Forjadas/Rebellion.md",
+    "Técnicas Malditas",
+    "Personajes Mundo/2. Ángeles/Jerarquía de los Cielos.md",
+    "Personajes Mundo/3. Demonios/Jerarquía de los Avernos.md",
+    "Devil Arms/Armas Forjadas/Yamato.md",
+    "Personajes Mundo/2. Ángeles/Arcángeles/Eva, Arcángel del Ejercito Mater, Liberadora de la Raza Humana.md",
+    "Personajes Mundo/3. Demonios/Demonios notables/Caballero Oscuro Sparda, Liberador de la Raza Humana.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/6. Sexto Trono de los Infiernos, Conquista, Pecado de la Envidia.md",
+    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Conquista - Conquest - Makima.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/5. Quinto Trono de los Infiernos, Guerra, Pecado de la Envidia.md",
+    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Guerra - War - Yoru.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/4. Cuarto Monarca de los Infiernos, Ba'al Zebub, Pecado de la Gula.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/3. Tercera Monarca de los Infiernos, Hambruna, Pecado de la Pereza.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/1. Primer Monarca de los Infiernos, Muerte, Pecado de la Ira.md",
+    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Muerte - Shi-Chan.md",
+    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Hambruna - Famine - Sancho Manchego.md",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/2. Segundo Monarca de los Infiernos, Mundus, Pecado de la Codicia.md",
+    "Personajes Jugadores/Jordi/Bayonetta - Cherry.md",
+    "Personajes Mundo/1. Entidades Mayores/Illa Mater.md",
+    "Personajes Mundo/1. Entidades Mayores/Aesir.md",
+    "Personajes Jugadores/Jordi",
+    "Personajes Jugadores/Susto",
+    "Personajes Mundo/5. Agencia Internacional de Cazademonios",
+    "Personajes Mundo/4. Devil Hunters",
+    "Personajes Mundo/6. Hechiceros Jujutsu",
+    "Personajes Mundo/3. Demonios/Monarcas del Averno/7. Septimo Monarca de los Infiernos, Sukuna Dos Caras, Pecado del Orgullo.md",
+    "Lugares/Isla Marli/Saint Anna de Marli Island.md",
+    "Lugares/Isla Marli/Ruinas del Templo Demoniaco.md",
+    "Lugares/Isla Marli",
+    "Lugares/Isla Mallet",
+    "Lugares/Red Grave City",
+    "Lugares/Isla Fortune"
+  ]
+}

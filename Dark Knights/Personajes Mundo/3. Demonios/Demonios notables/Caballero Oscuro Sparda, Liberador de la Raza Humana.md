@@ -1,0 +1,1 @@
+ Fue el demonio del miedo a las cucarachas. Con la singularidades de tener un tipo de energía muy único. Su capacidad principal era la adaptabilidad a la adversidad y la resistencia. Fue ganando poder mediante el miedo que le tenían  a las cucarachas o al propio Sparda y luego sumó la esperanza de los humanos a su fuerza.

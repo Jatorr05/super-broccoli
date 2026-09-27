@@ -1,0 +1,1 @@
+Encarnación del concepto de la muerte y el caos. Entidad origen de los demonios y coceador de los mortales junto a [[Illa Mater]].
