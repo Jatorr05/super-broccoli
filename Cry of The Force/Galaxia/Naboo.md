@@ -1,0 +1,1 @@
+#Planeta #Mid-Rim #O-17 #Habitado #Atmosfera-Tipo-1 

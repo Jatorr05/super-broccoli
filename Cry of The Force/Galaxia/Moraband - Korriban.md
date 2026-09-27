@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #R-5 #Habitado #Atmosfera-Tipo-1 

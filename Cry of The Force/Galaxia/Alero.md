@@ -1,0 +1,1 @@
+#Planeta #Core #M-10 #Habitado #Atmosfera-Tipo-1 

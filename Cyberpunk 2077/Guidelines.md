@@ -1,0 +1,3 @@
+- Robo del Relic 
+- Traición de Dexter
+- 

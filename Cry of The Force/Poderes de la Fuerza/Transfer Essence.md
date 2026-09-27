@@ -1,0 +1,3 @@
+La transferencia de esencia es un don de la fuerza que otorga la capacidad de transferir la consciencia y el espíritu de una persona a otro cuerpo o en algunos casos objetos inanimados. La eficacia de la posesión y control sobre el cuerpo depende de varios factores de compatibilidad: Recuento de Midiclorianos, Fuerza de Voluntad, Control sobre la Fuerza y Compatibilidad en su mentalidad.
+
+#ForceGift #ForcePower #TransferEssence

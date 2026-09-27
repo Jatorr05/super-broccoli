@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #L-19 #Habitado #Atmosfera-Tipo-2 

@@ -1,0 +1,1 @@
+#Planeta #P-9 #Mid-Rim #Habitado #Atmosfera-Tipo-2 

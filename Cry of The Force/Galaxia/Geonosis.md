@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #R-16 #Habitado #Separatistas #Atmosfera-Tipo-1 

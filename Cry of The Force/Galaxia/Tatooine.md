@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #R-16 #Habitado #Atmosfera-Tipo-1 

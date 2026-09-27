@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #S-15 #Habitado #ImperioGalactico #Atmosfera-Tipo-1 

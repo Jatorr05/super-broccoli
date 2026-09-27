@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "dcd5258530185ddc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec6128b68e84622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1088a1cf4ec97cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poderes de la Fuerza/Mind control.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f75b2bc8b4d52002",
+    "type": "split",
+    "children": [
+      {
+        "id": "9480b62e665f8c74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f2a272e8b1f1ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1bc5442ceeb69a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c32d88daf08ce491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4aa609803b44256",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d42064e616bc57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c45e11282908fe4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Poderes de la Fuerza/Mind control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9403e2f5e8e93ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Poderes de la Fuerza/Psicometría.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ae58cc6d2c3fa48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24fd11656685e0ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8ea8af7cd600002e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Poderes de la Fuerza/Psicometría.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1088a1cf4ec97cb8",
+  "lastOpenFiles": [
+    "z_Imagenes/Pasted image 20260907133559.png",
+    "Poderes de la Fuerza/Force Destruction.md",
+    "Poderes de la Fuerza/Mind control.md",
+    "Poderes de la Fuerza/Clarividencia.md",
+    "Poderes de la Fuerza/Psicometría.md",
+    "Poderes de la Fuerza/Force Gift.md",
+    "Poderes de la Fuerza/Force Storm.md",
+    "Poderes de la Fuerza/Wayfinding.md",
+    "Galaxia/Vassek3.md",
+    "Personajes Jugadores/Nathaniel Revan Deankata.md",
+    "Galaxia/Alero.md",
+    "Galaxia/Ahch-To.md",
+    "Galaxia/Gaia.md",
+    "Galaxia/Corelia.md",
+    "Galaxia/Coruscant.md",
+    "Galaxia/Dagobah.md",
+    "Galaxia/Bracca.md",
+    "Galaxia/Exegol.md",
+    "Galaxia/Geonosis.md",
+    "Galaxia/Hoth.md",
+    "Galaxia/Jedha.md",
+    "Galaxia/Kashyyyk.md",
+    "Galaxia/Mandalore.md",
+    "Galaxia/Moraband - Korriban.md",
+    "Galaxia/Mustafar.md",
+    "Galaxia/Naboo.md",
+    "z_Imagenes/Mapa Galaxia 2.jpeg",
+    "z_Imagenes/Mapa Galaxia.jpg",
+    "z_Imagenes/GenialogiaRevan.png",
+    "z_Imagenes/Pasted image 20260602143906.png",
+    "z_Imagenes/Revan.png",
+    "z_Imagenes/Revan-Doudanuki Masakuni.jpg",
+    "z_Imagenes/Pasted image 20260602145010.png",
+    "z_Imagenes/Pasted image 20260602143907.png",
+    "Poderes de la Fuerza",
+    "z_Imagenes/Revan-Revan.jpg",
+    "z_Imagenes/Revan.jpg",
+    "z_Imagenes/Revan.jpg.opdownload",
+    "Sin título.base",
+    "Sin nombre",
+    "Galaxia",
+    "Imagenes/star_wars_galaxy_map_4000x4000_20251009_3c4d0e08.jpeg.opdownload",
+    "Imagenes/Galaxy_Map_Full.webp.opdownload",
+    "Imagenes/Mapa Galaxia.jpg.opdownload",
+    "Main Plot",
+    "z_Imagenes",
+    "Sin título.canvas"
+  ]
+}

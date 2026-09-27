@@ -1,0 +1,3 @@
+Es un poder del lado oscuro de la fuerza que confiere la capacidad de comprender intuitivamente los sistemas electrónicos y mecánicos. A través del Mechu-Deru estructuras mecánicas pueden ser sometidas a la voluntad del usuario y ser imbuidas por la fuerza. Los sables laser quedan excluidos de la influencia de está habilidad debida a su baja complejidad y alta resistencia frente a ataques basados en la fuerza, al resonar con el cristal Kyber.  
+
+#ForcePower #DarkSide #Mechu-Deru 

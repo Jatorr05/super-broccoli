@@ -1,0 +1,3 @@
+La Tormenta de la fuerza es un Don de la Fuerza, cuyo poder es crear agujeros de gusano a cualquier lugar de la galaxia que pueda visualizar el usuario. Como abre agujeros de gusano, es capaz de transportar personas o cosas. Las únicas limitaciones son la capacidad del usuario para visualizar un destino o la capacidad para abrir un agujero lo suficientemente grande, ya que resulta agotador.
+
+#ForceGift #ForcePower #ForceStorm

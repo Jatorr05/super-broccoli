@@ -1,0 +1,1 @@
+#Planeta #Core #Habitado #Atmosfera-Tipo-1 #L-9 #RepublicaGalactica #ImperioGalactico

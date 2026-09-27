@@ -1,0 +1,1 @@
+#Planeta #Outer-Rim #P-6 #Inhabitable #Atmosfera-Tipo-4

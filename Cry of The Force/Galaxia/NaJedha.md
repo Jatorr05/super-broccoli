@@ -1,0 +1,1 @@
+#Planeta #Mid-Rim #H-10 #Desierto #Atmosfera-Tipo-3
