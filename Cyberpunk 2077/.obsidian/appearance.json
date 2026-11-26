@@ -1,3 +1,4 @@
 {
-  "cssTheme": "Terminal"
+  "cssTheme": "Terminal",
+  "showRibbon": true
 }

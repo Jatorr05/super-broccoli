@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5161de820e0b590",
+        "id": "a145172ebe8b1cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "721b2faadabc81ec",
+            "id": "ffdf3fccdc692fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,20 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Estadísticas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4432c397063f584e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "721b2faadabc81ec",
+  "active": "ffdf3fccdc692fca",
   "lastOpenFiles": [
+    "Estadísticas.md",
     "Guidelines.md",
     "Personajes/Main/Noe Nohira.md",
-    "Estadísticas.md",
     "Personajes/Main/Felicia Parker.md",
     "Personajes/Main/David Martinez.md",
     "Personajes/World/Altiera (Alt) Cunningham.md",
