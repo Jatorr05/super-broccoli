@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,13 +191,13 @@
   },
   "active": "2b17a678e050c1c4",
   "lastOpenFiles": [
-    "Devil Arms/Armas Forjadas/Rebellion.md",
+    "().md",
     "Devil Arms/Armas Forjadas/Yamato.md",
+    "Devil Arms/Armas Forjadas/Rebellion.md",
     "Principios del Mundo/Energía Maldita/Polaridades/Espectro Alfa (α).md",
     "Personajes Mundo/3. Demonios/Demonios notables/Caballero Oscuro Sparda, Liberador de la Raza Humana.md",
     "Personajes Mundo/Especiales/Vergil Sparda.md",
     "Personajes Jugadores/Susto/Dante Sparda.md",
-    "().md",
     "z_Imagenes/Pasted image 20261013225420.png",
     "z_Imagenes/Pasted image 20261013225359.png",
     "Devil Arms/Armas Forjadas/Ebony & Ivory.md",
