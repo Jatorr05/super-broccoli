@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guidelines.md",
+                "file": "Notas de importancia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guidelines"
+              "title": "Notas de importancia"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "lastOpenFiles": [
     "Estadísticas.md",
     "Guidelines.md",
+    "Notas de importancia.md",
     "Personajes/Main/Noe Nohira.md",
     "Personajes/Main/Felicia Parker.md",
     "Personajes/Main/David Martinez.md",
@@ -207,7 +208,6 @@
     "Personajes/World/Wakako.md",
     "Personajes/World/Yorinobu Arasaka.md",
     "Personajes/World/Saburo Arasaka.md",
-    "Notas de importancia.md",
     "Personajes",
     "Personajes/World/Rache Bartmoss.md",
     "cree un enlace.md",
