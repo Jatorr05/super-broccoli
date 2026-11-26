@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Plot/Guidelines.md",
+                "file": "Devil Arms/Armas Forjadas/Yamato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guidelines"
+              "title": "Yamato"
             }
           }
         ]
@@ -56,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -99,14 +99,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Plot/Guidelines.md",
+                "file": "Devil Arms/Armas Forjadas/Yamato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Plot/Guidelines.md",
+                "file": "Devil Arms/Armas Forjadas/Yamato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Plot/Guidelines.md",
+                "file": "Devil Arms/Armas Forjadas/Yamato.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,11 +170,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,43 +188,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ed58fdcfec881e0",
+  "active": "2b17a678e050c1c4",
   "lastOpenFiles": [
-    "Main Plot/Memorias del Mundo.md",
-    "Main Plot/Guión.md",
-    "Main Plot/Guidelines.md",
-    "Devil Arms/Armas Forjadas/Ebony & Ivory.md",
     "Devil Arms/Armas Forjadas/Rebellion.md",
-    "Técnicas Malditas",
-    "Personajes Mundo/2. Ángeles/Jerarquía de los Cielos.md",
-    "Personajes Mundo/3. Demonios/Jerarquía de los Avernos.md",
     "Devil Arms/Armas Forjadas/Yamato.md",
-    "Personajes Mundo/2. Ángeles/Arcángeles/Eva, Arcángel del Ejercito Mater, Liberadora de la Raza Humana.md",
+    "Principios del Mundo/Energía Maldita/Polaridades/Espectro Alfa (α).md",
     "Personajes Mundo/3. Demonios/Demonios notables/Caballero Oscuro Sparda, Liberador de la Raza Humana.md",
-    "Personajes Mundo/3. Demonios/Monarcas del Averno/6. Sexto Trono de los Infiernos, Conquista, Pecado de la Envidia.md",
-    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Conquista - Conquest - Makima.md",
-    "Personajes Mundo/3. Demonios/Monarcas del Averno/5. Quinto Trono de los Infiernos, Guerra, Pecado de la Envidia.md",
-    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Guerra - War - Yoru.md",
-    "Personajes Mundo/3. Demonios/Monarcas del Averno/4. Cuarto Monarca de los Infiernos, Ba'al Zebub, Pecado de la Gula.md",
+    "Personajes Mundo/Especiales/Vergil Sparda.md",
+    "Personajes Jugadores/Susto/Dante Sparda.md",
+    "().md",
+    "z_Imagenes/Pasted image 20261013225420.png",
+    "z_Imagenes/Pasted image 20261013225359.png",
+    "Devil Arms/Armas Forjadas/Ebony & Ivory.md",
+    "z_Imagenes/Pasted image 20261013225057.png",
+    "Devil Arms/Armas Forjadas/Arayashiki.md",
+    "z_Imagenes/Pasted image 20261013214339.png",
+    "z_Imagenes/Pasted image 20261013214027.png",
+    "Principios del Mundo/Energía Maldita/Polaridades/Espectro Gamma (γ).md",
+    "Principios del Mundo/Energía Maldita/Polaridades/Espectro Omega (Ω).md",
+    "Devil Arms/Armas Vivas/Chavaliere.md",
+    "z_Imagenes/Pasted image 20261013213325.png",
+    "z_Imagenes/Pasted image 20261013213159.png",
+    "z_Imagenes/Pasted image 20261013213129.png",
+    "Personajes Mundo/3. Demonios/Razas de Demonio.md",
+    "z_Imagenes/Pasted image 20261013212657.png",
+    "Personajes Mundo/3. Demonios/Jerarquía de los Avernos.md",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros del Pasado/Yoriichi Tsukiguni (Zen'in), Hechicero Ancestral del Clan Zen'in.md",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros de Red Grave City/Yoruichi Shihoin, Tornado Dorado.md",
     "Personajes Mundo/3. Demonios/Monarcas del Averno/3. Tercera Monarca de los Infiernos, Hambruna, Pecado de la Pereza.md",
-    "Personajes Mundo/3. Demonios/Monarcas del Averno/1. Primer Monarca de los Infiernos, Muerte, Pecado de la Ira.md",
-    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Muerte - Shi-Chan.md",
-    "Personajes Mundo/2. Ángeles/Jinetes del apocalipsis/Hambruna - Famine - Sancho Manchego.md",
-    "Personajes Mundo/3. Demonios/Monarcas del Averno/2. Segundo Monarca de los Infiernos, Mundus, Pecado de la Codicia.md",
-    "Personajes Jugadores/Jordi/Bayonetta - Cherry.md",
-    "Personajes Mundo/1. Entidades Mayores/Illa Mater.md",
-    "Personajes Mundo/1. Entidades Mayores/Aesir.md",
-    "Personajes Jugadores/Jordi",
-    "Personajes Jugadores/Susto",
-    "Personajes Mundo/5. Agencia Internacional de Cazademonios",
-    "Personajes Mundo/4. Devil Hunters",
-    "Personajes Mundo/6. Hechiceros Jujutsu",
+    "Personajes Jugadores/Susto/Yuji Itadori.md",
+    "Técnicas Malditas/Sistema de Anti-Gravedad.md",
+    "Técnicas Malditas/Mizushi.md",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Usuarios Malditos/Kenjaku.md",
+    "[[Yuji.md",
+    "Personajes Mundo/Especiales/Kaori Itadori.md",
     "Personajes Mundo/3. Demonios/Monarcas del Averno/7. Septimo Monarca de los Infiernos, Sukuna Dos Caras, Pecado del Orgullo.md",
-    "Lugares/Isla Marli/Saint Anna de Marli Island.md",
-    "Lugares/Isla Marli/Ruinas del Templo Demoniaco.md",
-    "Lugares/Isla Marli",
-    "Lugares/Isla Mallet",
-    "Lugares/Red Grave City",
-    "Lugares/Isla Fortune"
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros de Red Grave City/Yuta Okkotsu.md",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros de Red Grave City",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Clan Zen'in/Toji Zen'in.md",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Clan Zen'in",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Usuarios Malditos",
+    "Personajes Mundo/5. Cuerpo Internacional de Cazademonios/Sede de Red Grave City",
+    "Personajes Mundo/Especiales",
+    "Personajes Jugadores/Yo",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros del Pasado/Untitled",
+    "Personajes Mundo/6. Hechiceros Jujutsu/Hechiceros del Pasado",
+    "Personajes Mundo/7. Brujas de Umbra",
+    "Principios del Mundo/Energía Maldita/Polaridades"
   ]
 }

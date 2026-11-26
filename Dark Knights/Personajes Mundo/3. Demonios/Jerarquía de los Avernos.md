@@ -1,7 +1,7 @@
 
 - Rango 1: Monarcas del Averno
 
-- Rango 2: Señores Demoniacos (Cabezas de una raza de demonio o demonios extraordinariamente poderosos)
+- Rango 2: Señores Demoniacos (Cabezas de una [raza de demonio](obsidian://open?vault=Dark%20Knights&file=Personajes%20Mundo%2F3.%20Demonios%2FRazas%20de%20Demonio) o demonios extraordinariamente poderosos)
 
 - Rango 3: Caballeros Demoniacos (Soldados demonios mas fuerte de lo común, suelen servir a algún monarca)
 

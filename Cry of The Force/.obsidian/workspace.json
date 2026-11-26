@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poderes de la Fuerza/Mind control.md",
+                "file": "Galaxia/Petrichor V.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mind control"
+              "title": "Petrichor V"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.30001831054688
   },
   "right": {
     "id": "d4aa609803b44256",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poderes de la Fuerza/Mind control.md",
+                "file": "Galaxia/Petrichor V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 206.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +187,21 @@
   },
   "active": "1088a1cf4ec97cb8",
   "lastOpenFiles": [
+    "z_Imagenes/Mapa Galaxia.jpg",
+    "Galaxia/Petrichor V.md",
+    "Galaxia/Mandalore.md",
+    "Galaxia/Lothal.md",
+    "Galaxia/Kashyyyk.md",
+    "Galaxia/Moraband - Korriban.md",
+    "Galaxia/Coruscant.md",
+    "Galaxia/Dagobah.md",
+    "Nexo de la Fuerza.md",
+    "Galaxia/Mortis.md",
+    "Galaxia/Jedha.md",
+    "Galaxia/Exegol.md",
+    "Poderes de la Fuerza/Mind control.md",
     "z_Imagenes/Pasted image 20260907133559.png",
     "Poderes de la Fuerza/Force Destruction.md",
-    "Poderes de la Fuerza/Mind control.md",
     "Poderes de la Fuerza/Clarividencia.md",
     "Poderes de la Fuerza/Psicometría.md",
     "Poderes de la Fuerza/Force Gift.md",
@@ -201,20 +213,8 @@
     "Galaxia/Ahch-To.md",
     "Galaxia/Gaia.md",
     "Galaxia/Corelia.md",
-    "Galaxia/Coruscant.md",
-    "Galaxia/Dagobah.md",
     "Galaxia/Bracca.md",
-    "Galaxia/Exegol.md",
-    "Galaxia/Geonosis.md",
-    "Galaxia/Hoth.md",
-    "Galaxia/Jedha.md",
-    "Galaxia/Kashyyyk.md",
-    "Galaxia/Mandalore.md",
-    "Galaxia/Moraband - Korriban.md",
-    "Galaxia/Mustafar.md",
-    "Galaxia/Naboo.md",
     "z_Imagenes/Mapa Galaxia 2.jpeg",
-    "z_Imagenes/Mapa Galaxia.jpg",
     "z_Imagenes/GenialogiaRevan.png",
     "z_Imagenes/Pasted image 20260602143906.png",
     "z_Imagenes/Revan.png",
@@ -223,7 +223,6 @@
     "z_Imagenes/Pasted image 20260602143907.png",
     "Poderes de la Fuerza",
     "z_Imagenes/Revan-Revan.jpg",
-    "z_Imagenes/Revan.jpg",
     "z_Imagenes/Revan.jpg.opdownload",
     "Sin título.base",
     "Sin nombre",

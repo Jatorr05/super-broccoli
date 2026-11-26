@@ -12,6 +12,6 @@ Habilidad Técnica (TECH): Define que tan bueno es el personaje manejando maquin
 
 Movilidad (MOVE): Define como de rápido esquiva, reacciona, corre, salta y se mueve en general el personaje.
 
-*"Suerte (LK): Aun por ver, pero lo que hace es añadir modificador a la tirada."*
+Suerte (LK): Descuenta su porcentaje a la tirada, para ello tiene que acertar en un 75%-D4/ 50%-D4 / 25%-D4 / 1%-D100.
 
 Humanidad (人): Define la cantidad de puntos que le queda para empezar con la Cyberpsicosis. Si entra en números negativos cambia a definir que grado de Cyberpsicosis muestra la victima.

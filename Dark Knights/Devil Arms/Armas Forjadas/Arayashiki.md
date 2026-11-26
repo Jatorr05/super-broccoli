@@ -1,0 +1,3 @@
+La espada de la Muerte Escrita/Destinada, las heridas que infringe son imposibles de curar o regenerar y se reabren cuando están en presencia de la espada. A cambió de semejante poder, cada corte también afecta a la mente del portador.
+
+Con está espada es que los Hechiceros de la Era Heian derrotaron al [Monarca Sukuna](obsidian://open?vault=Dark%20Knights&file=Personajes%20Mundo%2F3.%20Demonios%2FMonarcas%20del%20Averno%2F7.%20Septimo%20Monarca%20de%20los%20Infiernos%2C%20Sukuna%20Dos%20Caras%2C%20Pecado%20del%20Orgullo), que había renacido en el mundo mortal.

@@ -1,1 +1,1 @@
-Bayonetta es la primera humana creada por las entidades primigenias, el primer prototipo de humano fue una mujer con un poder absoluto, provocando que sus mismos progenitores tuvieran que arrebatarle ese poder amedrentador.
+Bayonetta es la primera humana creada por las entidades primigenias, el primer prototipo de humano fue una mujer con un poder absoluto, provocando que sus mismos progenitores tuvieran que arrebatarle ese poder amedrentador por el bien de su nuevo mundo.

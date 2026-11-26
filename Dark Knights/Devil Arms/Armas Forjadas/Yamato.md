@@ -1,0 +1,7 @@
+Espada de Vergil que recibió de parte de su padre, Espada hermana de [Rebellion](obsidian://open?vault=Dark%20Knights&file=Devil%20Arms%2FArmas%20Forjadas%2FRebellion), el mandoble de [Dante](obsidian://open?vault=Dark%20Knights&file=Personajes%20Jugadores%2FSusto%2FDante%20Sparda). Tiene la capacidad de cortar y atravesar todo. La espada se perdió junto a Vergil el día que asaltaron la Mansión de la Familia Sparda.
+
+La katana resuena con el [Espectro Alfa](obsidian://open?vault=Dark%20Knights&file=Principios%20del%20Mundo%2FEnerg%C3%ADa%20Maldita%2FPolaridades%2FEspectro%20Alfa%20(%CE%B1)) de la energía maldita, lo que le confiere un poder cortante extraordinario y un filo imposible de mellar. Esta espada fue forjada a partir de un fragmento del alma del [Demonio Azul](obsidian://open?vault=Dark%20Knights&file=Personajes%20Mundo%2FEspeciales%2FVergil%20Sparda), a petición de [su padre](obsidian://open?vault=Dark%20Knights&file=Personajes%20Mundo%2F3.%20Demonios%2FDemonios%20notables%2FCaballero%20Oscuro%20Sparda%2C%20Liberador%20de%20la%20Raza%20Humana). Un solo fragmento de la hoja de la Yamato contiene el poder suficiente para cortar a través de dimensiones y abrir portales o cerrar portales. Pese a no ser tan resistente como la Rebellion, si su filo se rompe, Vergil es capaz de reunificar los fragmentos en una sola hoja, mientras pueda sentir donde se encuentran.
+
+![[Pasted image 20261013225359.png|446]]
+
+![[Pasted image 20261013225420.png|446]]
