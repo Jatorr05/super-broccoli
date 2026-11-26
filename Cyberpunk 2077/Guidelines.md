@@ -1,6 +1,7 @@
 - Robo del Relic 
 - Traición de Dexter
-- Buscar solucion al engrama
+- Buscar solución al engrama
 - Venganza a la Familia Nohira
-- Busqueda de Bartmoss
--
+- Búsqueda de Bartmoss
+- Muerte de Evelyn
+- Asalto final a la Torre Arasaka
