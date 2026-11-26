@@ -2,3 +2,5 @@
 - Traición de Dexter
 - Buscar solucion al engrama
 - Venganza a la Familia Nohira
+- Busqueda de Bartmoss
+-
