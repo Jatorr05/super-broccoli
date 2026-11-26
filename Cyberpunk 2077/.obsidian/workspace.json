@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de importancia.md",
+                "file": "Estadísticas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas de importancia"
+              "title": "Estadísticas"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffdf3fccdc692fca",
+  "active": "b21d225db55bf017",
   "lastOpenFiles": [
-    "Estadísticas.md",
     "Guidelines.md",
     "Notas de importancia.md",
+    "Estadísticas.md",
     "Personajes/Main/Noe Nohira.md",
     "Personajes/Main/Felicia Parker.md",
     "Personajes/Main/David Martinez.md",
