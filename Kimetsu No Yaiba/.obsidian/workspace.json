@@ -188,6 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas Importantes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2475a7d7dd0d1ef",
+  "active": "daafcad07b7b9e7e",
   "lastOpenFiles": [
     "Guidelines.md",
     "Notas Importantes.md",
